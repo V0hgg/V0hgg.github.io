@@ -90,6 +90,9 @@ iframe {
   background-color: rgb(62, 170, 94);
   padding: 10px 10px 10px 10px;
 }
+fb-comments {
+  margin: 40px;
+}
 footer {
   background-color: black;
   color: white;
