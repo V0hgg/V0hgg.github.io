@@ -92,6 +92,7 @@ iframe {
 }
 fb-comments {
   margin: 40px;
+  align-items: center;
 }
 footer {
   background-color: black;
