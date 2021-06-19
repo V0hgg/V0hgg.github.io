@@ -91,7 +91,8 @@ iframe {
   padding: 10px 10px 10px 10px;
 }
 fb-comments {
-  margin: 40px;
+  display: block;
+  margin: 0 auto;
   align-items: center;
 }
 footer {
