@@ -8,6 +8,16 @@ h1 {
   text-align: center;
   color: white;
 }
+.left {
+  text-align: left;
+  color: white;
+  font-size: 100px;
+}
+.right {
+  text-align: right;
+  color: white;
+  font-size: 100px;
+}
 h4 {
   color: white;
   text-align: center;
