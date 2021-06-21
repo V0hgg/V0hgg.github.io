@@ -113,7 +113,7 @@ iframe {
   padding: 10px 10px 10px 10px;
 }
 .fb-comments {
-  position: absolute !important;
+  position: auto;
   margin-left: auto;
   margin-right: auto;
   left: 0;
@@ -123,7 +123,7 @@ iframe {
 footer {
   background-color: black;
   color: white;
-  position: auto !important;
+  position: auto;
   padding: 50px;
   text-align: center;
 }
