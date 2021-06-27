@@ -58,6 +58,10 @@ a {
 a:hover {
   letter-spacing: 5px;
 }
+.contactMenu {
+  margin: 40px auto;
+  margin-left: 50px;
+}
 
 .menu {
   position: relative;
