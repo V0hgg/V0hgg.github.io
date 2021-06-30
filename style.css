@@ -85,6 +85,13 @@ a:hover {
   right: auto;
   float: right;
 }
+@media screen and (max-width: 620px) {
+  .menu,
+  .menu a,
+  .menu-log {
+    width: 100%;
+  }
+}
 .images {
   position: relative;
   top: 0;
@@ -98,6 +105,7 @@ img {
   height: 33%;
   max-width: 33%;
 }
+
 .center {
   display: block;
   margin-left: auto;
